@@ -11,4 +11,4 @@ char playAgain();
 void numberGuessingGame();
 
 
-void wordGue
+void wordGuessingGame();
